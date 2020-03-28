@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\steva\OneDrive\Desktop\00303000T\SortingArray_StevanieZaneta\main.cpp(33,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\steva\OneDrive\Desktop\00303000T\SortingArray_StevanieZaneta\main.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\steva\OneDrive\Desktop\00303000T\SortingArray_StevanieZaneta\main.cpp(129,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\steva\OneDrive\Desktop\00303000T\SortingArray_StevanieZaneta\main.cpp(136,24): warning C4018: '<': signed/unsigned mismatch
+  SortingArray.vcxproj -> C:\Users\steva\OneDrive\Desktop\00303000T\SortingArray_StevanieZaneta\Debug\SortingArray.exe
